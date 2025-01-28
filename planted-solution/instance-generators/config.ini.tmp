@@ -1,0 +1,21 @@
+
+# ------------------------------------------ Tile Planting -------------------------------------------------------- #
+[TP]
+
+# Specify the spatial dimension and the linear lattice size L (the number of variables N = L^dimension).
+# The dimension should be set to 2 for square-lattice topology, and 3 for cubic-lattice topology.
+# L must be an even integer greater than two.
+
+dimension = 2
+L = LVAL
+# Specify the probability parameters:
+# Parameters for square-lattice problems  (0 <= p1, p2, p3 <= 1  &  p1 + p2 + p3 <= 1.0)
+p1 = 0.0
+p2 = P2VAL
+p3 = 0.0
+
+# Specify whether the planted ferromagnetic ground state should be concealed via a gauge transformation (yes/no).
+gauge_transform = yes
+# ---------------------------------------------------------------------------------------------------------------- #
+
+

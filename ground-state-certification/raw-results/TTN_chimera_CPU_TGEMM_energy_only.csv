@@ -1,0 +1,14 @@
+instance,num_var,optimizer,TTN_energy,runtime
+randomQuboDWaveChimera_8_2_dense_1.txt,128,TreeSA,-1830.25ₜ,0.007390839
+randomQuboDWaveChimera_8_3_dense_1.txt,192,TreeSA,-2907.25ₜ,0.014719782
+randomQuboDWaveChimera_8_4_dense_1.txt,256,TreeSA,-3672.25ₜ,0.11746172
+randomQuboDWaveChimera_8_5_dense_1.txt,320,TreeSA,-4828.5ₜ,0.548489952
+randomQuboDWaveChimera_8_6_dense_1.txt,384,TreeSA,-7318.25ₜ,9.34305618
+randomQuboDWaveChimera_8_7_dense_1.txt,448,TreeSA,-11212.0ₜ,127.442172964
+randomQuboDWaveChimera_8_8_dense_1.txt,512,TreeSA,-7.495109616980791e247ₜ,2058.86161879
+randomQuboDWaveChimera_8_9_dense_1.txt,576,TreeSA,-8526.0ₜ,24335.939744943
+randomQuboDWaveChimera_8_10_dense_1.txt,640,TreeSA,-9288.0ₜ,10091.093164627
+randomQuboDWaveChimera_8_11_dense_1.txt,704,TreeSA,-9994.5ₜ,26212.450671531
+randomQuboDWaveChimera_8_12_dense_1.txt,768,TreeSA,-11070.25ₜ,40443.867344229
+randomQuboDWaveChimera_8_13_dense_1.txt,832,TreeSA,-11983.75ₜ,34891.275273644
+randomQuboDWaveChimera_8_14_dense_1.txt,896,TreeSA,-13340.75ₜ,61446.631321929

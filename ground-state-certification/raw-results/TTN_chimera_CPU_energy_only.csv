@@ -1,0 +1,7 @@
+instance,num_var,optimizer,TTN_energy,runtime
+randomQuboDWaveChimera_8_2_dense_1.txt,128,TreeSA,-1830.25ₜ,0.004994802
+randomQuboDWaveChimera_8_3_dense_1.txt,192,TreeSA,-2907.25ₜ,0.038348547
+randomQuboDWaveChimera_8_4_dense_1.txt,256,TreeSA,-3672.25ₜ,0.13082007
+randomQuboDWaveChimera_8_5_dense_1.txt,320,TreeSA,-4768.0ₜ,1.239595851
+randomQuboDWaveChimera_8_6_dense_1.txt,384,TreeSA,-5624.5ₜ,97.278239179
+randomQuboDWaveChimera_8_7_dense_1.txt,448,TreeSA,-6406.25ₜ,729.805307837

@@ -1,0 +1,16 @@
+instance,num_var,velox_energy,cplex_energy,gap,runtime,load_time
+randomIsingDWaveChimera_8_2_dense_1.h5,128,-1830.25,-1830.25,0.0,0.053079449,0.000802481
+randomIsingDWaveChimera_8_3_dense_1.h5,192,-2907.25,-2907.25,0.0,0.108907871,0.001065593
+randomIsingDWaveChimera_8_4_dense_1.h5,256,-3672.25,-3672.25,0.0,0.099026364,0.001299224
+randomIsingDWaveChimera_8_5_dense_1.h5,320,-4768.0,-4768.0,0.0,0.123168438,0.001910882
+randomIsingDWaveChimera_8_6_dense_1.h5,384,-5624.5,-5624.5,0.0,0.142011507,0.002267595
+randomIsingDWaveChimera_8_7_dense_1.h5,448,-6406.25,-6406.25,0.0,0.16525145,0.003582341
+randomIsingDWaveChimera_8_8_dense_1.h5,512,-7493.0,-7493.0,0.0,0.193393979,0.004253355
+randomIsingDWaveChimera_8_9_dense_1.h5,576,-8491.5,-8491.5,0.0,0.221454934,0.004079152
+randomIsingDWaveChimera_8_10_dense_1.h5,640,-9247.25,-9247.25,0.0,0.288992935,0.005539241
+randomIsingDWaveChimera_8_11_dense_1.h5,704,-9994.5,-9994.5,0.0,0.368949778,0.006440577
+randomIsingDWaveChimera_8_12_dense_1.h5,768,-11011.25,-11011.25,0.0,0.291103181,0.007143959
+randomIsingDWaveChimera_8_13_dense_1.h5,832,-11860.75,-11860.75,0.0,0.32361446,0.008301106
+randomIsingDWaveChimera_8_14_dense_1.h5,896,-13299.25,-13299.25,0.0,0.339614959,0.009011653
+randomIsingDWaveChimera_8_15_dense_1.h5,960,-13813.75,-13813.75,0.0,0.393351952,0.011465353
+randomIsingDWaveChimera_8_16_dense_1.h5,1024,-15110.25,-15110.25,0.0,0.38326971,0.114042239

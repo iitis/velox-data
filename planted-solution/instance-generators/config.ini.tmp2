@@ -1,0 +1,24 @@
+ # ---------------------------------------- Wishart Planting ------------------------------------------------------ #
+[WP] 
+
+ # Specify the number of variables.
+N = LVAL
+
+ # Specify the hardness-tuning parameter alpha (alpha > 0.0).
+ # Note that the actual value of alpha used in the problem construction will be adjusted such that M = alpha*N 
+ # is a positive integer.
+alpha = ALPHAVAL
+
+ # Specify whether the coupler values should be discretized (yes/no).
+ # By default, the problem construction procedure uses Gaussian variates, which renders the resultant couplers to be 
+ # real valued. If discretize_couplers is set to 'yes', the construction procedure uses uniform random variables in 
+ # {-1, 1}, and the coupler values will be discrete and will assume values in the set
+ # { -4*(alpha*N)*(N-1)^2, ..., -4, 0, 4, ..., 4*(alpha*N)*(N-1)^2 }.
+discretize_couplers = no
+
+ # Specify whether the planted ferromagnetic ground state should be concealed via a gauge transformation (yes/no).
+gauge_transform = yes
+ # ---------------------------------------------------------------------------------------------------------------- #
+
+
+

@@ -1,0 +1,12 @@
+
+# ------------------------------ Equation Planting (k-regular k-XORSAT)------------------------------------------- #
+[XORSAT]
+
+# Specify the locality k of the terms in the resultant Ising Hamiltonian.
+# This is equivalent to the number of variables per equation in the k-regular k-XORSAT representation.
+k = KVAL
+
+# Specify the total number of variables N (N>=k).
+# This is equal to the number of equations in the k-regular k-XORSAT representation.
+N = NVAL
+# ---------------------------------------------------------------------------------------------------------------- #

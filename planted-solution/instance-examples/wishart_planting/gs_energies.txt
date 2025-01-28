@@ -1,0 +1,2 @@
+wishart_planting_N_100_alpha_0.20_inst_1.txt	-1.0030782e+01
+wishart_planting_N_100_alpha_1.00_inst_1.txt    -5.0396215e+01
